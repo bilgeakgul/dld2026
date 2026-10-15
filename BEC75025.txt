@@ -1,0 +1,12 @@
+
+
+BEC75025 DC/DC çiftyön 15kW güç modülü
+https://www.infypower.com/well-designedus-car-charger-15kw-300v-bidirectional-dc2dc-converter-bec75025-infypower.html
+
+
+BEG1K075G:
+Bidirectional EV charging marks contemporary game changing innovations in renewable energy sector. Unlike most unidirectional charging that energy flows one way to vehicles only, bidirectional charging also allows energy from the batteries to flow (back) to the grid (V2G), homes (V2H) as well as other loads (V2L). Bidirectional charging compatible vehicles include Nissan Leaf ZE1 (V2G/V2H), Outlander PHEV (V2G/V2H), Ford F-150 Lightning (V2G), BYD Han EV (V2L), and others. 
+ 
+Working closely with regional Grid systems and a few leading EV makers, Infypower is definitely one of the dominators in V2G/V2H charging technologies. Especially, we feel responsible to help some EV charger builders to explore bidirectional charging potentials with Infypower bidirectional power modules. 
+ 
+BEG1K075G represents our bidirectional AC/DC power converter rated at 22kW. By internal high frequency transformer isolation design and the application of Sic MOSFET, it’s vested with outstanding performance in power density, efficiency and reliability. Other recommended applications include energy storage EV charging, smart grid, decommissioned battery reuse and energy storage. 
